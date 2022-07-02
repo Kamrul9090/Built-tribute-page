@@ -1,0 +1,36 @@
+#main{
+ width: 100%;
+}
+#header{
+  background-color: rgb(205, 155, 89);
+  color: brown;
+  text-align: center;
+  height: 100px;
+  padding: 10px;
+}
+#img-div{
+  text-align: center;
+  
+}
+#image{
+    width: 800px;
+    height: 500px;
+  }
+  #img-caption{
+    justify-content: center;
+  }
+  
+  #tribute-info{
+    text-align: start;
+    
+  }
+
+  #tribute-info p {
+    justify-content: center;
+    font-style: italic;
+  }
+
+  footer p{
+    font-size: 20px;
+    text-align: center;
+  }
